@@ -1,1 +1,1 @@
-console.log('Hello worldy world');
+console.log('junior puto');
